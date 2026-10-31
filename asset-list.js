@@ -15,7 +15,7 @@ var BDMV_ASSETS = {
     payloads: [
         {
             path: "bonk/hen.bin",
-            bytes: 562240
+            bytes: 40000
         },
         {
             path: "bonk/local/guards.bin",
